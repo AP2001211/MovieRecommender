@@ -21,7 +21,7 @@ This project is a feature-based movie recommendation system that utilizes Arango
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/movie-recommendation-arangodb.git
+   git clone https://github.com/AP302001/movie-recommendation-arangodb.git
    ```
 
 2. Set up ArangoDB (using Docker):

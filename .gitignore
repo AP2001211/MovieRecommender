@@ -1,1 +1,8 @@
 dbProj/
+ml-32m/
+enriched_impactful_movies.csv
+filtered_ratings_top_movies.csv
+final_filtered_ratings.csv
+final_filtered_tags.csv
+impactful_movies.csv
+.DS_Store
